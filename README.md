@@ -41,7 +41,7 @@ Follow these steps to manually set up the CI/CD pipeline for deploying your stat
 5. **Monitor Pipeline**: Monitor the progress of the CodePipeline execution in the AWS Management Console or through the AWS CLI.
 
 6. **Access Website**: Once the pipeline completes successfully, access your static website using the cloudfront URL or custom domain if configured DNS.
-7. <img src="https://github.com/MehrajShah/MehrajShah-Static_Website_Project/blob/main/MEHRAJ.jpg" alt="display this" width=200 height=200> (Number of pixels, or the more phone-friendly "CSS pixels" in HTML5.) or <img src="http://example.com/example.png" width=100% height=10%> 
+7. <img src="https://github.com/MehrajShah/MehrajShah-Static_Website_Project/blob/main/MEHRAJ.jpg" alt="display this" width=200 height=200> <P>Mehraj Shah  Data AnalystContact No. +919622436070</P> 
 
 ## Resources
 
